@@ -1,0 +1,4 @@
+django
+gunicorn
+python-decouple
+pyscopg2-binary
